@@ -7,4 +7,4 @@ A simple project, scraping twitter daily for sentiment classification. The code 
 * Scrape tweets through the API
 * Use regular expressions to remove punctuation
 * Insert the text in a MySQL database
-* Perform sentiment analysis
+* Perform sentiment analysis, with the help of TextBlob library
